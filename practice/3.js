@@ -12,5 +12,6 @@ function a() {
   console.log(b.slice(4, 10));
   console.log(b.toUpperCase()); // all uppercase
   console.log("BHOPAL".toLowerCase()); // all lowercase
+  console.log(a[0] + a[15] + a[15] + a[11] + a[4]);
 }
 a();
